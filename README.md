@@ -2,18 +2,18 @@
 
 ## About
 
-### This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
+This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
-### "In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact." 
+"In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact." 
 
 ## Business Questions To Answer
 
-## Generic Question
+### Generic Question
 
-### How many unique cities does the data have?
-### In which city is each branch?
+How many unique cities does the data have?
+In which city is each branch?
 
-Product
+### Product
 
 How many unique product lines does the data have?
 
@@ -30,12 +30,12 @@ Fetch each product line and add a column to those product line showing "Good", "
 Which branch sold more products than average product sold?
 What is the most common product line by gender?
 What is the average rating of each product line?
-Sales
+### Sales
 Number of sales made in each time of the day per weekday
 Which of the customer types brings the most revenue?
 Which city has the largest tax percent/ VAT (Value Added Tax)?
 Which customer type pays the most in VAT?
-Customer
+### Customer
 How many unique customer types does the data have?
 How many unique payment methods does the data have?
 What is the most common customer type?
